@@ -2,4 +2,4 @@ _assetic:
     resource: .
     type: assetic
 _app:
-    resource: /Users/azubunorthamerica/Sites/symfony/2.3/20150226tpo/sf2mongo/path/app/config/routing_dev.yml
+    resource: /Users/azubunorthamerica/Sites/symfony/2.3/20150226tpo/sf2mongo/app/config/routing_dev.yml

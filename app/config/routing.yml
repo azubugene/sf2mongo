@@ -1,3 +1,7 @@
+tpo_mongo_odm:
+    resource: "@TPOMongoODMBundle/Resources/config/routing.yml"
+    prefix:   /
+
 app:
     resource: @AppBundle/Controller/
     type:     annotation

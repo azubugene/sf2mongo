@@ -1,0 +1,4 @@
+services:
+#    tpo_mongo_odm.example:
+#        class: TPO\MongoODMBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
